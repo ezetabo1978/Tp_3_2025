@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Soy el tp 3");
+            Console.WriteLine("hola");
         }
     }
 }
